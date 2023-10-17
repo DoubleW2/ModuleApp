@@ -1,0 +1,7 @@
+﻿  Analizators.cpp
+  Catalog.cpp
+C:\Users\Компутер\Desktop\StlLearning\ModuleApp\ModuleApp\Catalog.h(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  InitUser.cpp
+C:\Users\Компутер\Desktop\StlLearning\ModuleApp\ModuleApp\Catalog.h(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  ModuleApp.vcxproj -> C:\Users\Компутер\Desktop\StlLearning\ModuleApp\x64\Debug\ModuleApp.exe
